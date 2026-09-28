@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Ema Camila Conde 👋</h1>
-<h3 align="center">Data Scientist | Python · SQL · Machine Learning · Power BI</h3>
+<h3 align="center">Data Scientist | Data Engineer | Data Analyst | Python • SQL • Power BI • Machine Learning</h3>
 
 <p align="center">
   Transformando datos en decisiones estratégicas.
