@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ema Camila Conde 👋
 
-### Data Scientist | Data Engineer | Data Analyst | Python · SQL · Power BI · Machine Learning
+### Data Scientist | Data Analyst | Python · SQL · Javascript · Power BI · Machine Learning
 
 Transformando datos en decisiones estratégicas.
 
@@ -8,13 +8,9 @@ Transformando datos en decisiones estratégicas.
 
 ### 🧠 Sobre mí
 
-Data Scientist graduada de **Henry**, especializada en transformar datos complejos en soluciones
-estratégicas de negocio mediante análisis exploratorio (EDA), modelado predictivo, ingeniería de datos
-y visualización. Trabajo con metodología ágil (Scrum) y disfruto llevar un proyecto de punta a punta:
-desde la limpieza e integración de datos hasta un modelo en producción.
+Data Scientist graduada de **Henry**, con formación en developer (fullstack), especializada en transformar datos complejos en soluciones estratégicas de negocio mediante análisis exploratorio (EDA), modelado predictivo, ingeniería de datos y visualización. Trabajo con metodología ágil (Scrum) y disfruto llevar un proyecto de punta a punta: desde la limpieza e integración de datos hasta un modelo en producción.
 
-Vengo de más de 2 años de experiencia comercial en atención al cliente y ventas, lo que me da una mirada
-orientada al negocio: me interesa que cada análisis termine en una decisión concreta.
+Vengo de más de 2 años de experiencia comercial en atención al cliente y ventas, lo que me da una mirada orientada al negocio: me interesa que cada análisis termine en una decisión concreta.
 
 - 🔭 Mi último proyecto: **Metric Mindset**, un sistema de Machine Learning para predicción
   de conversión en e-commerce (proyecto final de Henry).
